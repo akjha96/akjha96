@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/akjha96"><img src="https://api.daily.dev/devcards/b573305f420e4cb78724071656164ae5.png?r=9si" width="400" alt="ANAND KUMAR JHA's Dev Card"/></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akjha96)](https://github.com/anuraghazra/github-readme-stats)
