@@ -10,7 +10,7 @@
   <br/>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=akjha96&show_icons=true&theme=radical&cache_seconds=1800" alt="Anand's GitHub stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=akjha96&show_icons=true&theme=radical" />
   </a>
 
 </div>
