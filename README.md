@@ -8,11 +8,4 @@
 
   <br/>
   <br/>
-
-  <a href="https://github.com/akjha96">
-    <img src="https://streak-stats.demolab.com?user=akjha96&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akjha96&theme=radical" alt="Stats" />
-</div>
 </div>
