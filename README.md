@@ -9,8 +9,8 @@
   <br/>
   <br/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=akjha96&show_icons=true&theme=radical" />
+  <a href="https://github.com/akjha96">
+    <img src="https://streak-stats.demolab.com?user=akjha96&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 
 </div>
